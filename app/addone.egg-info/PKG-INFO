@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: addone
+Version: 1.0
+Home-page: 
+Author: Joshua Leyva
+Author-email: joshleyva816@gmail.com
+License: MIT
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.12
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.12
+Description-Content-Type: text/markdown
+License-File: LICENSE.txt
+Provides-Extra: dev
